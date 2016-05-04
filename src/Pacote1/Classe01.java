@@ -6,5 +6,7 @@ public class Classe01 {
 	String Teste;
 	int numero;
 	double outronumero;
+	double numeroreal;
+	byte numeropequeno;
 
 }
